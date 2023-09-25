@@ -1,0 +1,23 @@
+.container {
+  width: 360px;
+  margin: 0 auto;
+  text-align: center;
+  border: 3px solid #2e2e2e;
+  padding: 56px 0;
+}
+button {
+  padding: 24px;
+  font-size: 24px;
+}
+.computer {
+  margin: 56px 0;
+}
+.result {
+  margin: 24px auto;
+  border: 3px solid #2e2e2e;
+  width: 120px;
+  padding: 24px 0;
+}
+.player {
+  margin-top: 56px;
+}
